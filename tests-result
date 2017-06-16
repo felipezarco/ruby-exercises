@@ -1,0 +1,23 @@
+....{"doo"=>3, "bee"=>2}
+.{"a"=>3, "man"=>1, "plan"=>1, "canal"=>1, "panama"=>1}
+.
+
+Finished in 0.00215 seconds (files took 0.08367 seconds to load)
+6 examples, 0 failures
+
+..
+
+Finished in 0.00116 seconds (files took 0.0852 seconds to load)
+2 examples, 0 failures
+
+[["cars", "racs", "scar"], ["for"], ["potatoes"], ["four"], ["creams", "scream"]]
+.
+
+Finished in 0.00156 seconds (files took 0.08402 seconds to load)
+1 example, 0 failures
+
+........
+
+Finished in 0.00531 seconds (files took 0.08854 seconds to load)
+8 examples, 0 failures
+
